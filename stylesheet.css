@@ -79,6 +79,12 @@ section.main-content-area {
             }
         }
 
+        .links {
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: center;
+        }
+
         .right-side {
             width: 60%;
             background-color: white;
