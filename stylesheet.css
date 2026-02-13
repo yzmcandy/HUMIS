@@ -71,15 +71,19 @@ section.main-content-area {
             justify-content: space-between;
 
             > * {
-                border: 3px solid black;
+                border: none;
             }
 
             nav {
                 a {
                 display: block;
                     text-decoration: none;
+                    margin-bottom: 10px;
+                    font-size: 12px;
+                    padding: 8px;
+                    border-bottom: 1.5px solid #60663E;
 
-                    *:hover {
+                    &:hover {
                         color: white;
                         background-color: black;
                     }
