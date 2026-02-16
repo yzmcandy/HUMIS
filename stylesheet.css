@@ -58,9 +58,10 @@ section.main-content-area {
         border-radius: 10px;
         min-height: 400px;
         display: flex;
+        justify-content: space-between;
 
         > * {
-            border: 1px solid black;
+            border: none;
             margin: 10px;
         }
 
@@ -69,6 +70,9 @@ section.main-content-area {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            a {
+                color: black;
+            }
 
             > * {
                 border: none;
@@ -80,12 +84,13 @@ section.main-content-area {
                     text-decoration: none;
                     margin-bottom: 10px;
                     font-size: 12px;
-                    padding: 8px;
+                    padding: 8px 0 8px 12px;
                     border-bottom: 1.5px solid #60663E;
+                    text-transform: uppercase;
 
                     &:hover {
                         color: white;
-                        background-color: black;
+                        background-color: #60663E;
                     }
             }
             }
@@ -98,7 +103,7 @@ section.main-content-area {
         }
 
         .right-side {
-            width: 60%;
+            width: 62%;
             background-color: white;
             padding: 10px;
         }
