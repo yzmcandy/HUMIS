@@ -1,3 +1,3 @@
-# My First Project
+# My First Work in the Interaction Design class.
 
-My name is Dea in Interaction Design class.
+My first work in this class is HUMIS. I learned the basics of making a website with CSS. We started by making the box-form layout, aligning them in the correct order, putting elements inside them, and finally stylizing elements to make them similar to the HUMIS website. Doing the exercise related to the skill I learned, I could make my own website by myself, and I could embed the bookmark in my website. It was my very first time to design a website, but I feel a little bit more confident after every class, and it made me to give it a try to make a more complicated website. Based on this kind of website, I want to make more interactive animation like pictures that pop out when I hover over elements. 
